@@ -1,0 +1,12 @@
+id: QmST7icazf5riGQHv9HmsbVFsKMa1XcCdnK7FVS6R59QJh
+description: aaaaaa
+tags: []
+domains:
+    - GeneratedDomain
+source:
+    paths:
+        - /
+    branch: main
+    github:
+        id: 1257638579
+        fullname: admin2001-coder/shop
